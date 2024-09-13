@@ -5,7 +5,7 @@ export const Header = () => {
   return (
     <header className="py-4 z-50  fixed w-full border-b border-white/15 md:border-none  ">
       <div className="container">
-        <div className="flex justify-between backdrop-blur-xl items-center md:border border-white/15 md:px-6 md:py-3 max-w-2xl  mx-auto rounded-full  ">
+        <div className="flex justify-between  items-center md:border border-white/15 md:px-6 md:py-3 max-w-2xl  mx-auto rounded-full  ">
           <div className="border h-10 w-10 rounded-lg  inline-flex justify-center items-center border-white/15">
             <Logo className="h-8 w-8 " />
           </div>
